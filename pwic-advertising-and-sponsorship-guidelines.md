@@ -1,5 +1,4 @@
 # Policy for Advertising and Sponsorships
-Updated May 15, 2019
 
 Pakistani Women in Computing (PWiC) publishes items throughout the year including but not limited to the Facebook posts, LinkedIn posts, blogs, and/or twitter publicizing their many events. This policy clarifies how businesses can be listed in our publications. PWiC does not sell advertising but we can solicit sponsorships.
 
