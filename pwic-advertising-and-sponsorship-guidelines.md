@@ -1,4 +1,5 @@
-# PWiC Advertising and Sponsorship Policies
+# Policy for Advertising and Sponsorships
+Updated May 15, 2019
 
 Pakistani Women in Computing (PWiC) publishes items throughout the year including but not limited to the Facebook posts, LinkedIn posts, blogs, and/or twitter publicizing their many events. This policy clarifies how businesses can be listed in our publications. PWiC does not sell advertising but we can solicit sponsorships.
 
@@ -12,11 +13,8 @@ As of the policy effective date the IRS considers "advertising" Unrelated Busine
 
 *For detailed information on advertising see IRS publication 598 Tax on Unrelated Business Income of Exempt Organizations*
 
-## Sponsoring PWiC
-While the IRS considers "advertising" Unrelated Business Income, sponsorships are considered excluded income and therefore are allowed. PWiC can solicit sponsorships and acknowledge these sponsors in our publications. 
-
-## What Qualifies as a Sponsorship?
-Sponsorship involves a donation to our organization from a business or corporation. The donations can be cash or in-kind (including material or services). We will acknowledge and thank sponsors for their donation by placing only their name, contact information and/or logo in our publications, no additional information such as coupons, business reviews, endorsements or additional information that could be construed as advertising may be used in our publications. Sponsors should be made aware that their donations will be to PWiC. While a sponsor may choose to fund a specific need or a specific program any excess funds collected will be used for the PWiC’s general fund. 
+## Sponsorships
+While the IRS considers "advertising" Unrelated Business Income, sponsorships are considered excluded income and therefore are allowed. PWiC can solicit sponsorships and acknowledge these sponsors in our publications.
 
 ## What Qualifies as a Sponsorship?
 Sponsorship involves a donation to our organization from a business or corporation. The donations can be cash or in-kind (including material or services). We will acknowledge and thank sponsors for their donation by placing only their name, contact information and/or logo in our publications, no additional information such as coupons, business reviews, endorsements or additional information that could be construed as advertising may be used in our publications. Sponsors should be made aware that their donations will be to PWiC. While a sponsor may choose to fund a specific need or a specific program any excess funds collected will be used for the PWiC’s general fund.
